@@ -9,9 +9,9 @@ Este projeto foi desenvolvido no curso de desenvolvimento Web, com proposta de u
 
 <h2> Avaliação do Projeto </h2>
 
-<img src="https://vscode.dev/github/ThiagoShundi/Project-Trybewarts/blob/cc3635ec22d00ab62a84451de393c7d56bc0a44e/images/Captura de tela de 2023-05-04 23-09-11.png"/>
+<url src="images/avaliacao.png"/>
 
-<img src="https://vscode.dev/github/ThiagoShundi/Project-Trybewarts/blob/cc3635ec22d00ab62a84451de393c7d56bc0a44e/images/Captura de tela de 2023-05-04 22-42-42.png"/>
+<img src="images/projeto.png"/>
 
 <h2>Contato </h2>
 
