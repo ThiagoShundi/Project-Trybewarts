@@ -9,7 +9,7 @@ Este projeto foi desenvolvido no curso de desenvolvimento Web, com a proposta de
 
 <h2> Avaliação do Projeto </h2>
 
-<url src="images/avaliacao.png"/>
+<img src="images/avaliacao.png"/>
 
 <img src="images/projeto.png"/>
 
