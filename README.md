@@ -3,7 +3,7 @@
 <h2> Sobre o projeto </h2>
 
 <div> 
-Este projeto foi desenvolvido no curso de desenvolvimento Web, com proposta de utilizar as ferrasmentas HTML e CSS (CSS Flexbox).
+Este projeto foi desenvolvido no curso de desenvolvimento Web, com a proposta de utilizar as ferrasmentas HTML e CSS (CSS Flexbox).
 
 </div> 
 
